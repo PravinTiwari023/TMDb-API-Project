@@ -1,0 +1,2 @@
+# TMDb-API-Project
+The clear, simple syntax of Python makes it an ideal language to interact with REST APIs, and in typical Python fashion, there’s a library made specifically to provide that functionality: Requests. Python Requests is a powerful tool that provides the simple elegance of Python to make HTTP requests to any API in the world. At Nylas, we built our REST APIs for email, calendar, and contacts on Python, and we process over 500 million API requests a day, so naturally, we depend a ton on the Python Requests library.
